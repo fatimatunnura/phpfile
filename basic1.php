@@ -1,3 +1,10 @@
-echo $a;//results in the value of $a being printed
-echo '$a';//results in the word $a bring printed
+<?php
+$school= "doulod khan govt girls high school";
+$school2='doulod khan govt girls\' high school';
 
+
+echo $school;
+
+echo $school2;
+
+     ?>
