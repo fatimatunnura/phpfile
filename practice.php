@@ -1,0 +1,1 @@
+<img alt="" src="http://static01.nyt.com/images/2015/01/07/dining/20150107-BROTH-slide-56FU/20150107-BROTH-slide-56FU-thumbStandard-v2.jpg">
